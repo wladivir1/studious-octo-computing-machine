@@ -1,8 +1,4 @@
-# Object file
-*.o
 
-# Ada Library Information
-*.ali
 
 # Создано https://www.gitignore.io/api/windows
 # Edit at https://www.gitignore.io/?templates=windows
